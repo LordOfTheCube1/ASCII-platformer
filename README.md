@@ -40,7 +40,7 @@ cut -> this is optional for walls, not needed for floors. only needed if you don
 
 Ignore all of the info about speech marks if you know how JSON files should be formatted, and just use that knowledge instead (sorry if I made it confusing)
 
-An example can be found in the level.json file already.
+An example can be found in the level.json file already. Another example can be found in the stairslevel.json file.
 
 #### How to run this code for yourself
 

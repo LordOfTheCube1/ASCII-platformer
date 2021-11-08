@@ -31,7 +31,7 @@ Game.tickLength = 50; // How often the game will update in milliseconds (this is
 Game.time = 0; // This is how many "ticks" the game has run for (divide this number by 20 to get seconds)
 Game.timedout = false;
 Game.level = null;
-fetch("stairslevel.json").then(response => response.json()).then(data => Game.level = data);
+fetch("level.json").then(response => response.json()).then(data => Game.level = data);
 class GameStage {
   constructor(type) {
     this.type = type;
