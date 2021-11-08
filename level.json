@@ -1,0 +1,19 @@
+[
+  {
+    "type": "wall",
+    "bottomY": 28,
+    "topY": 27,
+    "x": 10
+  },
+  {
+    "type": "floor",
+    "bottomY": 27,
+    "x": 20
+  },
+  {
+    "type": "wall",
+    "bottomY": 27,
+    "topY": 25,
+    "x": 30
+  }
+]

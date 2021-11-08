@@ -1,0 +1,32 @@
+[
+  {
+    "type": "wall",
+    "bottomY": 28,
+    "topY": 27,
+    "x": 10
+  },
+  {
+    "type": "wall",
+    "bottomY": 26,
+    "topY": 25,
+    "x": 12
+  },
+  {
+    "type": "wall",
+    "bottomY": 24,
+    "topY": 23,
+    "x": 14
+  },
+  {
+    "type": "wall",
+    "bottomY": 22,
+    "topY": 21,
+    "x": 16
+  },
+  {
+    "type": "wall",
+    "bottomY": 20,
+    "topY": 19,
+    "x": 18
+  }
+]
