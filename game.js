@@ -1,6 +1,16 @@
+/*
+
+Copyright (C) 2021
+LordOfTheCube
+Licensed under the GNU General Public License v3.0
+See LICENSE before using any code
+
+*/
+
+
+
 // Welcome to the ASCII platformer source code
 // Made by LordOfTheCube1 (discord LordOfTheCube#0419)
-// See LICENSE before using any code
 // This cannot be run locally, it must be run on a server (if you want to run it on localhost see README.md)
 // Enjoy!
 
